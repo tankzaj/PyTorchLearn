@@ -16,5 +16,8 @@ git config --global http.proxy socks5 127.0.0.1:9909
 git config --global https.proxy socks5 127.0.0.1:9909
 git config --global http.proxy 127.0.0.1:9910
 git config --global https.proxy 127.0.0.1:9910
+<<<<<<< HEAD
 
 五、commit一直等待，请在设置-拓展-GIT:use Editor As commit input的勾选去掉即可解决.
+=======
+>>>>>>> 59ed08562f2d8135ff4dfae88cd7b38473a318e6
